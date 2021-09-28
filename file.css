@@ -20,3 +20,9 @@ a{
 section{
     padding: 20px 0px;
 }
+.bar{
+    height: 3px;
+    padding: 0px 10px;
+    background-color: black;
+    border-radius: 2px;
+}
