@@ -1,0 +1,13 @@
+header{
+background-color: rgb(44, 62, 80);
+color: white;
+}
+:root{
+    --bs-primary: rgb(44, 62, 80);
+    --bs-primary-rgb: rgb(44, 62, 80);
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
