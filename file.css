@@ -11,3 +11,6 @@ a{
     color: white;
     text-decoration: none;
 }
+.row img{
+    width: 100%;
+}
