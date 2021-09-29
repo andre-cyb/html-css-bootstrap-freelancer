@@ -38,3 +38,20 @@ section{
 a:hover{
     color: white;
 }
+/* .overlay{
+    position: relative;
+}
+.overlay:before{
+    background-color: rgba(0, 0, 0, .6);
+    content:"";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    border-radius: 10px;
+}
+.my-card:hover .overlay:before{
+    opacity: 1;
+} */
